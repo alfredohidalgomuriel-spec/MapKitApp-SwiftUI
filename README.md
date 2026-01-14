@@ -32,11 +32,11 @@ Aplicación nativa de mapas desarrollada con **SwiftUI** y **MapKit**, enfocada 
 
 ## 📸 Capturas de pantalla
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9be36f7f-6066-4414-acec-afd2150e7b78" width="400"> 
-  <img src="https://github.com/user-attachments/assets/d11b822e-8ebe-409e-9cf3-4f7e5940a812"width="400">
-  <img src="https://github.com/user-attachments/assets/950a5202-2c69-4691-9ac8-0a549d2e2ce0"width="400">
-  <img src="https://github.com/user-attachments/assets/85a2d679-9914-4990-a24c-395665cbb968"width="400">
-  <img src="https://github.com/user-attachments/assets/cab4030d-285c-4c11-a8f3-c912095b0090"width="400">
+  <img src="https://github.com/user-attachments/assets/9be36f7f-6066-4414-acec-afd2150e7b78" width="250"> 
+  <img src="https://github.com/user-attachments/assets/d11b822e-8ebe-409e-9cf3-4f7e5940a812"width="250">
+  <img src="https://github.com/user-attachments/assets/950a5202-2c69-4691-9ac8-0a549d2e2ce0"width="250">
+  <img src="https://github.com/user-attachments/assets/85a2d679-9914-4990-a24c-395665cbb968"width="250">
+  <img src="https://github.com/user-attachments/assets/cab4030d-285c-4c11-a8f3-c912095b0090"width="250">
 </p>
 
 
