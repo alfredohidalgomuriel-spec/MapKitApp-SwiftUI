@@ -43,5 +43,5 @@ Aplicación nativa de mapas desarrollada con **SwiftUI** y **MapKit**, enfocada 
 
 
 
-<img width="320" height="568" alt="IMG_0353" src="https://github.com/user-attachments/assets/453fb392-2026-4d3d-9123-407ff21587ec" />
+
 
