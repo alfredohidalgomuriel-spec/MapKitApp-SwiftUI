@@ -1,4 +1,15 @@
-# MapKitApp 🌍
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/017f8762-10a9-4994-a8b6-77be680a6632" width="160" style="border-radius: 30px;">
+</p>
+
+<h1 align="center">MapKitApp 🌍</h1>
+
+<p align="center">
+  Aplicación nativa de mapas desarrollada con <b>SwiftUI</b> y <b>MapKit</b>, enfocada en ofrecer una experiencia de usuario fluida y visualmente atractiva.
+</p>
+
+---
+
 
 Aplicación nativa de mapas desarrollada con **SwiftUI** y **MapKit**, enfocada en ofrecer una experiencia de usuario fluida y visualmente atractiva.
 
