@@ -27,8 +27,8 @@ Aplicación nativa de mapas desarrollada con **SwiftUI** y **MapKit**, enfocada 
 - **Arquitectura**: MVVM (Model-View-ViewModel) con el nuevo protocolo `@Observable`.
 
 ## 🧠 Aspectos Técnicos Destacados
-- **Gestión de Concurrencia**: Uso de `@MainActor` y `Task` para garantizar que las actualizaciones de la interfaz de usuario (como cerrar el modo Look Around) se ejecuten siempre en el hilo principal, evitando bloqueos.
-- **Estado Reactivo**: Implementación de estados complejos para gestionar la visibilidad de componentes del sistema de forma coordinada.
+- **Seguridad de Hilos (Thread Safety):** Uso estricto de `@MainActor` y concurrencia moderna (`async/await`) para garantizar que las actualizaciones de la interfaz y la carga de escenas de Look Around sean fluidas y seguras, eliminando riesgos de *data races*.
+- **Estado Reactivo Avanzado:** Migración integral a la macro `@Observable` de Swift 5.10. Esto permite una gestión de estados complejos más eficiente, reduciendo los refrescos innecesarios de la vista y mejorando el rendimiento global de la app.
 
 ## 📸 Capturas de pantalla
 <p align="center">
